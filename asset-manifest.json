@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mero-booking/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mero-booking/static/js/main.a87e35a3.chunk.js",
+    "main.js.map": "/mero-booking/static/js/main.a87e35a3.chunk.js.map",
+    "runtime-main.js": "/mero-booking/static/js/runtime-main.a7c7b6c6.js",
+    "runtime-main.js.map": "/mero-booking/static/js/runtime-main.a7c7b6c6.js.map",
+    "static/css/2.fe708519.chunk.css": "/mero-booking/static/css/2.fe708519.chunk.css",
+    "static/js/2.03c34c4a.chunk.js": "/mero-booking/static/js/2.03c34c4a.chunk.js",
+    "static/js/2.03c34c4a.chunk.js.map": "/mero-booking/static/js/2.03c34c4a.chunk.js.map",
+    "static/js/3.34afdb08.chunk.js": "/mero-booking/static/js/3.34afdb08.chunk.js",
+    "static/js/3.34afdb08.chunk.js.map": "/mero-booking/static/js/3.34afdb08.chunk.js.map",
+    "index.html": "/mero-booking/index.html",
+    "static/css/2.fe708519.chunk.css.map": "/mero-booking/static/css/2.fe708519.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mero-booking/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.03c34c4a.chunk.js.LICENSE.txt": "/mero-booking/static/js/2.03c34c4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7c7b6c6.js",
+    "static/css/2.fe708519.chunk.css",
+    "static/js/2.03c34c4a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a87e35a3.chunk.js"
+  ]
+}
